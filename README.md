@@ -1,5 +1,5 @@
 # Natural-Language-Processing-Project
-Using Yelp review data set from kaggle.com
+Using Yelp review data set from kaggle.com.
 Used CountVectorizer from Scikit Learn to convert review text to a sparse matrix of individual word counts for each review.
 The data was then split into test and train sets and the following models were applied using Scikit Learn:
 * Naive Bayes Classifier
